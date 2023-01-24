@@ -1,6 +1,6 @@
 /* 
 Date: 12/3/2022
-Create by: Kodchakorn Pratumkaew and Mokete Mashala
+Create by: Mokete Mashala and Kodchakorn Pratumkaew 
 For assignment A2_Case - H_Accounting (Pairs/Trios)
 Business Analysis with Structured Data - DAT-7470 - BMBAND1
 */
